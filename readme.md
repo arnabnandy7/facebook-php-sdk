@@ -122,6 +122,7 @@ Before creating a pull request, squash your commits into a single commit.
 Add the comments where needed, and provide ample explanation in the
 commit message.
 
+<!-- GitAds-Verify: RI3PKUBNNBIRY79DWMN672P2D1H9P1VH -->
 
 Report Issues/Bugs
 ===============
